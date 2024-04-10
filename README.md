@@ -6,6 +6,12 @@
 ## Settings
 <img src="./screenshots/Settings.png" width="30%">
 
+## QuickSettings
+<div style="display: flex; justify-content: space-evenly;">
+    <img src="./screenshots/QuickSettings.png" width="30%">
+    <img src="./screenshots/QuickSettingsExpanded.png" width="30%">
+</div>
+
 ## Something Settings
 <div style="display: flex; justify-content: space-between;">
     <img src="./screenshots/SomethingSettings.png" width="18%">
