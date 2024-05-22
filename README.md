@@ -6,12 +6,6 @@
 ## Settings
 <img src="https://raw.githubusercontent.com/SomethingOS/screenshots/main//screenshots/Settings.png" width="30%">
 
-## QuickSettings
-<div style="display: flex; justify-content: space-evenly;">
-    <img src="https://raw.githubusercontent.com/SomethingOS/screenshots/main//screenshots/QuickSettings.png" width="30%">
-    <img src="https://raw.githubusercontent.com/SomethingOS/screenshots/main//screenshots/QuickSettingsExpanded.png" width="30%">
-</div>
-
 ## Something Settings
 <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/SomethingOS/screenshots/main//screenshots/SomethingSettings.png" width="18%">
